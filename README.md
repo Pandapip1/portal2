@@ -49,32 +49,12 @@ Paste this information into your report, preferably in a code block or a [gist](
 Driver Contact Information
 --------------------------
 
-Some of the issue you may be experiencing are due to the various video drivers.  Here is an incomplete list of places that you might be able to file bugs or get additional help:
+Some of the issue you may be experiencing are due to the various video drivers. Here is an incomplete list of places that you might be able to file bugs or get additional help. If you know of any other places, please let us know.
 
-### AMD
+### Mesa (AMD / Intel / NVIDIA Nouveau)
 
-AMD Steam Linux forum for reporting **compatibility and performance issues with AMD hardware**:
+For discussions, there is the [mesa-users email list](https://mesa3d.org/lists.html). Bugs and feature requests should be logged in the [GitLab issue tracker](https://gitlab.freedesktop.org/mesa/mesa/-/issues).
 
-http://devgurus.amd.com/community/steam-linux
+### NVIDIA Proprietary Drivers
 
-The AMD Open Source driver is a part of Mesa, so use the links under "Intel" to report issues with it.
-
-### Intel
-
-For discussions, there is the mesa-users email list:
-
-http://mesa3d.org/lists.html
-
-Bugs and feature requests should be logged in bugzilla:
-
-http://mesa3d.org/bugs.html
-
-### NVIDIA
-
-NVIDIA supported drivers
-- https://devtalk.nvidia.com/default/board/98
-
-Open Source NVIDIA driver (nouveau)
-- http://nouveau.freedesktop.org/wiki
-
-If you know of any other places, please let us know.
+For disussions, there is the official [NVIDIA Graphics on Linux forum](https://forums.developer.nvidia.com/c/gpu-graphics/linux/148).
